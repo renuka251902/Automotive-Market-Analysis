@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 - [Objective](#Objective)
-- [Tools used](#Tools-uesd)
+- [Tools Used](#Tools-Used)
 - [Key Insights](#Key-Insights)
 - [Checkout my live Dashboard](#Checkout-my-live-Dashboard)
 
