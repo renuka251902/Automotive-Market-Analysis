@@ -47,4 +47,4 @@ aimed to provide data-driven insights to support decision-making for buyers, man
 This analysis provides valuable insights into the evolving automotive landscape, helping stakeholders make data-driven decisions
 
 ### Checkout my live Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiYjRiNmU5ZTMtN2RiMS00ZDYwLWExYTctOTRmMmIzNDc0YWZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+ https://lnkd.in/gBFnhsEd
