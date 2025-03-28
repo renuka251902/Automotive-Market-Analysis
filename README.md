@@ -1,5 +1,11 @@
 # Automotive-Market-Analysis
 
+## Table Of Contents
+- [Objective](#Objective)
+- [Tools used](#Tools-uesd)
+- [Key Insights](#Key-Insights)
+- [Checkout my live Dashboard](#Checkout-my-live-Dashboard)
+
 ### Objective:
 The goal of this analysis was to uncover key trends in the automotive industry using Power BI. By examining pricing, mileage, fuel efficiency, and service costs, the project
 
@@ -39,3 +45,6 @@ aimed to provide data-driven insights to support decision-making for buyers, man
 - Automatic & manual cars have comparable maintenance costs, making transmission choice less of a cost factor.
 
 This analysis provides valuable insights into the evolving automotive landscape, helping stakeholders make data-driven decisions
+
+### Checkout my live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYjRiNmU5ZTMtN2RiMS00ZDYwLWExYTctOTRmMmIzNDc0YWZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
